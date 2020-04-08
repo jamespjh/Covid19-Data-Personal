@@ -3,5 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - pandas
+  - matplotlib
   - python-dateutil
   - xlrd
