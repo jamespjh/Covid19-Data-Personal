@@ -1,0 +1,6 @@
+name: covid-wrangling-env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - dateutil
