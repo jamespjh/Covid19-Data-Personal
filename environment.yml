@@ -1,0 +1,6 @@
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - xlrd
